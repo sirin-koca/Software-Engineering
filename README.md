@@ -18,4 +18,3 @@ systemet”)
 5. Systematisk kvalitetssikring (i motsetning til “gjør som du
 selv synes er best”)
 ***
-OsloMet H22 | s182211
