@@ -18,3 +18,5 @@ systemet”)
 5. Systematisk kvalitetssikring (i motsetning til “gjør som du
 selv synes er best”)
 ***
+
+[Pensum](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/software-engineering-global-edition/9781292096131)
