@@ -20,4 +20,5 @@ selv synes er best”)
 ***
 
 * [Pensum](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/software-engineering-global-edition/9781292096131)
-* [PDF](https://mycourses.aalto.fi/pluginfile.php/1177979/mod_resource/content/1/Sommerville-Software-Engineering-10ed.pdf)
+* [Scrum](https://www.scrum.org/)
+* [Kanban](https://www.lean.org/lexicon-terms/kanban/)
