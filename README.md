@@ -49,3 +49,4 @@ selv synes er best”)
 * [The Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)
 
 ---
+ SK | OsloMet 23
